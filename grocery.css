@@ -1,0 +1,44 @@
+h1{
+    text-align:center;
+    color: blue;
+    border:  red solid 1px;
+    border-radius: 10px;
+    border-width: 5px;
+    margin: 5px 600px 0 600px;
+}
+/* div{
+    display:flex;
+} */
+.parent{
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+.grocery{
+    width: 50%;
+    height: 500px;
+    margin-right: 10px;
+    background-color: blueviolet;
+}
+.table{
+    width: 50%;
+    height: 500px;
+    background-color: brown;
+}
+.table table{
+    width: 100%;
+}
+.square{
+    display: inline-block;
+    list-style-type: square;
+}
+.number{
+    display: inline-block;
+    list-style-type:armenian;
+}
+.image{
+    /* list-style-image: url('img/relaxing-cat.jpg'); */
+    display: inline-block;
+    list-style-type: disc;
+
+}

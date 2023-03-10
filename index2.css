@@ -1,0 +1,91 @@
+.container h1{
+    padding: 50px;
+    text-align: center;
+}
+.container{
+    background-color:#dc60f592;
+    height: 500px;
+    background-image: linear-gradient(176deg, #dc60f592 70%, #F4F4F4 calc(70% + 2px)) :
+}
+.container .pic{
+    padding-left: 200px;
+}
+.body{
+    text-align: center;
+    color: purple;
+}
+.media{ 
+    border: 0.5px solid;
+    padding: 20px;
+    margin-right: 600px;
+    border-radius: 20px;
+    display: flex;
+}
+.img1{
+    border-radius:100px;
+}
+.img2{
+    border-radius:100px;
+}
+.img3{
+    border-radius: 100px;
+}
+.img4{
+    border-radius: 100px;
+}
+.img5{
+    border-radius:100px;
+}
+.img6{
+    border-radius: 100px;
+}
+.body2{
+    text-align: center;
+    color: plum;
+    padding: 100px;
+}
+.note3{
+    color: rgba(56, 8, 65, 0.902) ;
+}
+.fast{
+    float: right;
+    padding: 50px;
+}
+.clear{
+    align-items: center;
+    padding-left: 100px;
+    border: 1px solid;
+}
+.master2{
+    float: right;
+    padding: 50px;
+}
+.master{
+    align-items: center;
+    padding-left: 100px;
+    border: 1px solid;
+}
+.boost2{
+    float: right;
+    padding: 50px;
+}
+.boost{
+    align-items: center;
+    padding-left: 100px;
+    border: 1px solid;
+}
+.top{
+    background-color: rgba(255, 243, 243, 0.865);
+    text-align: center;
+}
+.top{
+    text-decoration: none;
+}
+.view{
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 20px  #A046D3;
+    box-sizing: inherit;
+    background-color: #A046D3;
+    text-decoration: none;
+}
